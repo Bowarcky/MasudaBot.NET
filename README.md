@@ -3,11 +3,11 @@
 
 ## Support Discord:
 
-For support on setting up your own instance of SysBot.NET, feel free to join the discord! (Beware of un-official discords who claim to be official)
+There is no support Discord for this fork. Please do not contact the Sysbot.NET developers for assistance with this for.
 
-[<img src="https://canary.discordapp.com/api/guilds/401014193211441153/widget.png?style=banner2">](https://discord.gg/tDMvSRv)
+## Intended use:
 
-[sys-botbase](https://github.com/olliz0r/sys-botbase) client for remote control automation of Nintendo Switch consoles.
+This fork is intended to leverage SysBot.NET to provide a different mechanical method of generating eggs for the [Egglocke variation of a Nuzlocke](https://nuzlockeuniversity.ca/nuzlocke-variants/egglocke-variant/). Eggs are generated for participants using the [AutoMod](https://github.com/architdate/PKHeX-Plugins/) PKHeX plugin, which results in legal eggs that are safe for Pokemon Home import.
 
 ## SysBot.Base:
 - Base logic library to be built upon in game-specific projects.
